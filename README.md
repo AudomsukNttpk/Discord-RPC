@@ -6,7 +6,6 @@ Display your currently playing Apple Music song as your Discord activity status.
 
 - Node.js installed on your computer
 - Discord desktop application
-- Apple Music (iTunes/Music app)
 - A Discord application (for the Client ID)
 
 ## Setup
